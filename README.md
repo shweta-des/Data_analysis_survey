@@ -2,7 +2,7 @@
 
 A Power BI dashboard analyzing survey responses from 630 data professionals to understand salary trends, skill requirements, job satisfaction, and career entry challenges.
 
-![Dashboard Preview](images/dashboard_screenshot.png)
+(DPS_Final_Dashboard.jpg)
 
 ##  Project Overview
 
