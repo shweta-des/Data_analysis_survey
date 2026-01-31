@@ -59,7 +59,7 @@ This project analyzes the 2022 Data Professional Survey (dataset by Alex the Ana
 4. **Treemap** - Geographic distribution of survey respondents
 5. **KPI Cards** - Average age and total respondent count
 
-## 🔄 Project Evolution
+##  Project Evolution
 
 ### Version 1 (Before)
 - Static visualizations
@@ -74,8 +74,6 @@ This project analyzes the 2022 Data Professional Survey (dataset by Alex the Ana
 - Strategic visual selection (removed low-value charts)
 - Clear data labels on all visualizations
 
-![Before and After Comparison](images/before_after.png)
-
 ##  Lessons Learned
 
 1. **Interactivity Matters** - Slicers transformed static charts into exploration tools
@@ -88,7 +86,7 @@ This project analyzes the 2022 Data Professional Survey (dataset by Alex the Ana
 - **LinkedIn Post:** (https://www.linkedin.com/posts/shweta-sharma-37297124b_powerbi-dataanalytics-datavisualization-activity-7422522826668171264-YcbE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3mm8YB7kfvYhZscwkp0NrpELyXwCMkR_0)
 - **Dataset Source:** (https://github.com/AlexTheAnalyst/Power-BI/blob/30d9e66e34a15900c5a191e76372e96bf4acf43a/Power%20BI%20-%20Final%20Project.xlsx)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Alex Freberg (Alex the Analyst)** - For providing the dataset and educational content
 - **Power BI Community** - For best practices and inspiration
